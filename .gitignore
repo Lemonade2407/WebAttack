@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# 环境变量文件（敏感信息，不要提交）
+.env
+.env.local
+.env.*.local
